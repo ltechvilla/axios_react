@@ -1,5 +1,8 @@
 import React, { useState } from 'react'
 import axios from 'axios';
+
+//this is my comment means lalti comments samjhe
+
 function FetchNews() {
     const [news, setNews] = useState([])
 
